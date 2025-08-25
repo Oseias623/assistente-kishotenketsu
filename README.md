@@ -50,6 +50,12 @@ Caso real completo: Coach de Vendas para Pequenas Empresas, com análise detalha
 ### 🔧 **[Guia de Implementação](./guia-implementacao.md)**
 Passo a passo completo, troubleshooting, templates de teste A/B e otimização contínua.
 
+### 🎨 **[Templates por Nicho](./templates-por-nicho.md)**
+Modelos prontos para 10+ nichos diferentes com fórmulas universais.
+
+### 🏥 **[Clínica Inspirar Pilates](./clinica-inspirar-pilates.md)**
+Assistente especializado para fisioterapia e Pilates em Santa Maria-RS, com templates, personas e estratégias de marketing local.
+
 ## 💡 Exemplo de Output
 
 ```
@@ -122,6 +128,8 @@ então [ação específica com urgência autêntica]"
 - [🌌 Técnica Detalhada](./estrutura-kishotenketsu.md) - Entenda a fundo
 - [📋 Exemplo Real](./exemplo-uso.md) - Veja funcionando na prática  
 - [🔧 Implementação](./guia-implementacao.md) - Passo a passo completo
+- [🎨 Templates por Nicho](./templates-por-nicho.md) - Modelos prontos
+- [🏥 Clínica Inspirar Pilates](./clinica-inspirar-pilates.md) - Caso especializado
 
 ## 🌟 Começe Agora
 
